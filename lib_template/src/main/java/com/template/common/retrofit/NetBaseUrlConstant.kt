@@ -5,11 +5,8 @@ package com.template.common.retrofit
  */
 internal object NetBaseUrlConstant {
 
-//    const val MAIN_URL = "http://150.5.172.206:8090/"
-    const val MAIN_URL = "http://118.196.43.75:8090/"
+    const val MAIN_URL = "http://example.com/"
 
-    //	const val MAIN_URL = "http://api.cheese.me/"
-    const val WEB_MAIN_URL = "http://m.cheese.me"
 
     //新增/替换一道菜
     const val DISH_SAVE = "dish/save"
