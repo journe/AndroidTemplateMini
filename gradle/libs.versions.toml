@@ -1,6 +1,7 @@
 [versions]
 agp = "8.7.3"
 kotlin = "2.2.0"
+ksp = "2.2.0-2.0.2"   # KSP版本（与Kotlin 2.2.0匹配）
 coreKtx = "1.15.0"
 espressoCore = "3.5.1"
 appcompat = "1.7.0"
@@ -39,7 +40,13 @@ hilt = { module = "com.google.dagger:hilt-android", version.ref = "hiltVersion" 
 hilt-compiler = { module = "com.google.dagger:hilt-compiler", version.ref = "hiltVersion" }
 
 [plugins]
-android-application = { id = "com.android.application", version.ref = "agp" }
-android-library = { id = "com.android.library", version.ref = "agp" }
-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+application = { id = "com.android.application", version.ref = "agp" }
+library = { id = "com.android.library", version.ref = "agp" }
+kotlin = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+hilt = { id = "com.google.dagger.hilt.android", version.ref = "hiltVersion" }
 
+[bundles]
+# 依赖包（批量引入，可选）
+#hilt = ["hilt-android", "hilt-android-compiler", "hilt-lifecycle-viewmodel", "hilt-compiler"]
+#androidCore = ["core-ktx", "appcompat"]
