@@ -3,7 +3,7 @@ package com.template.common
 import android.annotation.SuppressLint
 import android.app.Application
 import android.content.Context
-import com.google.auto.service.AutoService
+//import com.google.auto.service.AutoService
 import com.orhanobut.logger.AndroidLogAdapter
 import com.orhanobut.logger.Logger
 import com.orhanobut.logger.PrettyFormatStrategy
@@ -19,7 +19,7 @@ import com.template.base.utils.network.NetworkStateClient
  *
  * @since 4/16/21 3:37 PM
  */
-@AutoService(ApplicationLifecycle::class)
+//@AutoService(ApplicationLifecycle::class)
 class CommonApplication : ApplicationLifecycle, ForegroundBackgroundObserver {
 
 	companion object {

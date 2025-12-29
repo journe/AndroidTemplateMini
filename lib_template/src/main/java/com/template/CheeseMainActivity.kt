@@ -88,6 +88,8 @@ class CheeseMainActivity : BaseActivity<ActivityMainUilibBinding, MainViewModel>
     override fun initRequestData() {
 //		 模拟获取数据
 //		mViewModel.getData()
+
+	    SPUtils.getInstance().put(CheeseConstant.MOCK_KEY, BuildConfig.DEBUG)
         CheeseConstant.userToken = SPUtils.getInstance().getString(CheeseConstant.TOKEN_KEY)
 
         mBinding.moduleNameIv.apply {

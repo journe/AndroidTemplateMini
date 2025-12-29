@@ -1,5 +1,5 @@
 <resources>
-  <string name="app_name">TemplateMini</string>
+  <string name="app_name">TempMini</string>
 
   <string name="loading_text">"Loading......"</string>
 </resources>
