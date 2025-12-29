@@ -1,0 +1,90 @@
+{
+    "code": 200,
+    "msg": "sit ullamco veniam Lorem aliqua",
+    "data": {
+        "mealType": "dinner",
+        "dishes": [
+            {
+                "name": "大葱炒鸡蛋",
+                "imageUrl": "https://ts1.tc.mm.bing.net/th/id/OIP-C.-yb7Tdb_vKz5y_ntpSsgLAHaE8?w=238&h=211&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2",
+                "portion": "100g",
+                "nutrients": {
+                    "calories": 300,
+                    "protein": 10,
+                    "carbs": 50,
+                    "fat": 2
+                },
+                "recommendationReasons": [
+                    {
+                        "reason": "口感好",
+                        "isHighlight": true
+                    },
+                    {
+                        "reason": "营养丰盛",
+                        "isHighlight": false
+                    },
+                    {
+                        "reason": "易消化",
+                        "isHighlight": false
+                    }
+                ]
+            },
+            {
+                "name": "牛肉炒芹菜",
+                "imageUrl": "https://ts1.tc.mm.bing.net/th/id/OIP-C.BU7NA-1V12SLVzoLZ1h4MAHaHR?w=188&h=211&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2",
+                "portion": "100g",
+                "nutrients": {
+                    "calories": 500,
+                    "protein": 10,
+                    "carbs": 50,
+                    "fat": 2
+                },
+                "recommendationReasons": [
+                    {
+                        "reason": "富含维生素",
+                        "isHighlight": true
+                    },
+                    {
+                        "reason": "富含膳食纤维",
+                        "isHighlight": false
+                    },
+                    {
+                        "reason": "助消化",
+                        "isHighlight": false
+                    }
+                ]
+            },
+            {
+                "name": "苹果",
+                "imageUrl": "https://ts1.tc.mm.bing.net/th/id/OIP-C.BUyCY__2XCH8Z1pYX5IPvQHaE7?w=271&h=211&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2",
+                "portion": "100g",
+                "nutrients": {
+                    "calories": 800,
+                    "protein": 10,
+                    "carbs": 50,
+                    "fat": 2
+                },
+                "recommendationReasons": [
+                    {
+                        "reason": "富含维生素",
+                        "isHighlight": true
+                    },
+                    {
+                        "reason": "易消化",
+                        "isHighlight": false
+                    },
+                    {
+                        "reason": "制作方便",
+                        "isHighlight": false
+                    }
+                ]
+            }
+        ],
+        "summary": {
+            "totalCalories": 1850,
+            "protein": 150,
+            "carbs": 180,
+            "fat": 60
+        }
+    }
+}

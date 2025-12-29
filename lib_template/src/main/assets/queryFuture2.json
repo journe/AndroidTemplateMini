@@ -1,0 +1,1764 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": [
+    {
+      "date": "2025-10-26",
+      "dateInWeek": "今日",
+      "meals": [
+        {
+          "mealType": "breakfast",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "燕麦鸡蛋饼",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/燕麦鸡蛋饼_4e9b1edc9afb.jpg",
+              "portion": "150g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "蛋白质与碳水完美结合，提供持久能量",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "饱腹感强，有助于控制午餐前饥饿",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "制作简单快捷，适合忙碌早晨",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "牛奶",
+              "imageUrl": null,
+              "portion": "250ml",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "优质蛋白来源，补充钙质强健骨骼",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "促进骨骼健康，预防骨质疏松",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "早餐经典搭配，营养均衡",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "香蕉",
+              "imageUrl": null,
+              "portion": "1根",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "富含钾元素，维持电解质平衡",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "天然果糖提供快速能量补充",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "膳食纤维有助于消化系统健康",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": null
+        },
+        {
+          "mealType": "lunch",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "黄焖鸡",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/黄焖鸡_8279a0dff7cd.jpg",
+              "portion": "200g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "鸡肉富含优质蛋白，汤汁浓郁美味",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "经典家常菜，营养丰富均衡",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "搭配米饭食用，满足味蕾需求",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "炒青菜",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/炒青菜_754d65ef74d9.jpg",
+              "portion": "150g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "富含维生素和矿物质，营养全面",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "清淡爽口，平衡午餐口味",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "膳食纤维丰富，助消化",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "电饭煲蒸米饭",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/电饭煲蒸米饭_108ce0c12b9d.jpg",
+              "portion": "150g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "主食基础，提供主要能量来源",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "易于消化吸收，不增加肠胃负担",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "搭配菜肴均衡营养摄入",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "西红柿豆腐汤羹",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/西红柿豆腐汤羹_a3d171ab7bc5.jpg",
+              "portion": "200ml",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "番茄红素抗氧化，豆腐补充植物蛋白",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "清淡汤品，有助于消化",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "增加午餐水分摄入，保持身体水平衡",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": null
+        },
+        {
+          "mealType": "dinner",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "鱼香茄子",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/鱼香茄子_d5f764c4543b.jpg",
+              "portion": "200g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "茄子富含膳食纤维，鱼香口味开胃",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "植物蛋白丰富，适合晚间轻食",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "低脂肪健康选择，不增加消化负担",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "白灼菜心",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/白灼菜心_b634650c9296.jpg",
+              "portion": "200g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "清淡蔬菜，平衡晚餐口味",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含维生素和矿物质，营养全面",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "低热量高纤维，适合健康饮食",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "米粥",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/米粥_34a59cc331f4.jpg",
+              "portion": "200ml",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "温和易消化，适合晚餐食用",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "补充水分和基础能量",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "不增加肠胃负担，促进睡眠质量",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": null
+        }
+      ],
+      "summary": null
+    },
+    {
+      "date": "2025-10-27",
+      "dateInWeek": "周一",
+      "meals": [
+        {
+          "mealType": "breakfast",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "牛奶燕麦",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/牛奶燕麦_b35694704d40.jpg",
+              "portion": "200g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "优质碳水来源，提供持久能量",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含膳食纤维，促进肠道健康",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "制作简单快捷，适合早餐",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "煮鸡蛋",
+              "imageUrl": null,
+              "portion": "1个",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "优质蛋白质，满足早晨营养需求",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含必需氨基酸，促进肌肉修复",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "饱腹感强，有助于控制午餐前饥饿",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "香蕉",
+              "imageUrl": null,
+              "portion": "1根",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "富含钾元素，维持电解质平衡",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "天然果糖提供快速能量补充",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "膳食纤维有助于消化系统健康",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": null
+        },
+        {
+          "mealType": "lunch",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "小炒肉",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/小炒肉_769e33611de2.jpg",
+              "portion": "200g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "经典湘菜，肉质鲜嫩可口",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "蛋白质丰富，满足午餐营养需求",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "香辣开胃，促进食欲",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "手撕包菜",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/手撕包菜_277105cf787a.jpg",
+              "portion": "150g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "富含维生素K，促进骨骼健康",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "清淡爽口，平衡午餐口味",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "膳食纤维丰富，助消化",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "电饭煲蒸米饭",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/电饭煲蒸米饭_108ce0c12b9d.jpg",
+              "portion": "150g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "主食基础，提供主要能量来源",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "易于消化吸收，不增加肠胃负担",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "搭配菜肴均衡营养摄入",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "西红柿豆腐汤羹",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/西红柿豆腐汤羹_a3d171ab7bc5.jpg",
+              "portion": "200ml",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "番茄红素抗氧化，豆腐补充植物蛋白",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "清淡汤品，有助于消化",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "增加午餐水分摄入，保持身体水平衡",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": null
+        },
+        {
+          "mealType": "dinner",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "麻婆豆腐",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/麻婆豆腐_600df4d65a89.jpg",
+              "portion": "200g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "植物蛋白丰富，低脂肪健康选择",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "麻辣口味开胃，促进食欲",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "适合晚间轻食，不增加消化负担",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "蚝油生菜",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/蚝油生菜_3c35ce55e542.jpg",
+              "portion": "200g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "富含维生素和矿物质",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "低热量高纤维，适合减脂",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "清爽口感，平衡晚餐",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "米粥",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/米粥_34a59cc331f4.jpg",
+              "portion": "200ml",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "温和易消化，适合晚餐食用",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "补充水分和基础能量",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "不增加肠胃负担，促进睡眠质量",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": null
+        }
+      ],
+      "summary": null
+    },
+    {
+      "date": "2025-10-28",
+      "dateInWeek": "周二",
+      "meals": [
+        {
+          "mealType": "breakfast",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "牛奶燕麦",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/牛奶燕麦_b35694704d40.jpg",
+              "portion": "200g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "优质碳水来源，提供持久能量",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含膳食纤维，促进肠道健康",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "制作简单快捷，适合早餐",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "煮鸡蛋",
+              "imageUrl": null,
+              "portion": "1个",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "优质蛋白质，满足早晨营养需求",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含必需氨基酸，促进肌肉修复",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "饱腹感强，有助于控制午餐前饥饿",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "香蕉",
+              "imageUrl": null,
+              "portion": "1根",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "富含钾元素，维持电解质平衡",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "天然果糖提供快速能量补充",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "膳食纤维有助于消化系统健康",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": null
+        },
+        {
+          "mealType": "lunch",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "小炒黄牛肉",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/小炒黄牛肉_1c7cba7f84f1.jpg",
+              "portion": "200g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "牛肉富含优质蛋白和铁质",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "香辣开胃，促进食欲",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "经典湘菜风味，满足味蕾需求",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "手撕包菜",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/手撕包菜_277105cf787a.jpg",
+              "portion": "150g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "富含维生素K，促进骨骼健康",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "清淡爽口，平衡午餐口味",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "膳食纤维丰富，助消化",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "电饭煲蒸米饭",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/电饭煲蒸米饭_108ce0c12b9d.jpg",
+              "portion": "150g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "主食基础，提供主要能量来源",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "易于消化吸收，不增加肠胃负担",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "搭配菜肴均衡营养摄入",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "西红柿豆腐汤羹",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/西红柿豆腐汤羹_a3d171ab7bc5.jpg",
+              "portion": "200ml",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "番茄红素抗氧化，豆腐补充植物蛋白",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "清淡汤品，有助于消化",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "增加午餐水分摄入，保持身体水平衡",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": null
+        },
+        {
+          "mealType": "dinner",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "鱼香茄子",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/鱼香茄子_d5f764c4543b.jpg",
+              "portion": "200g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "茄子富含膳食纤维，鱼香口味开胃",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "植物蛋白丰富，适合晚间轻食",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "低脂肪健康选择，不增加消化负担",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "白灼菜心",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/白灼菜心_b634650c9296.jpg",
+              "portion": "200g",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "清淡蔬菜，平衡晚餐口味",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含维生素和矿物质，营养全面",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "低热量高纤维，适合健康饮食",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "米粥",
+              "imageUrl": "https://cheese-food-images.oss-cn-hangzhou.aliyuncs.com/dishes/generated/2025/10/米粥_34a59cc331f4.jpg",
+              "portion": "200ml",
+              "nutrients": null,
+              "recommendationReasons": [
+                {
+                  "reason": "温和易消化，适合晚餐食用",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "补充水分和基础能量",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "不增加肠胃负担，促进睡眠质量",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": null
+        }
+      ],
+      "summary": null
+    },
+    {
+      "date": "2025-10-29",
+      "dateInWeek": "周三",
+      "meals": [
+        {
+          "mealType": "breakfast",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "牛奶燕麦",
+              "imageUrl": null,
+              "portion": "200g",
+              "nutrients": {
+                "fat": 3,
+                "carbs": 25,
+                "protein": 8,
+                "calories": 150
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "优质碳水来源，提供持久能量",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含膳食纤维，促进肠道健康",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "制作简单快捷，适合早餐",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "煮鸡蛋",
+              "imageUrl": null,
+              "portion": "1个",
+              "nutrients": {
+                "fat": 5,
+                "carbs": 1,
+                "protein": 6,
+                "calories": 70
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "优质蛋白质，满足早晨营养需求",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含必需氨基酸，促进肌肉修复",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "饱腹感强，有助于控制午餐前饥饿",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "香蕉",
+              "imageUrl": null,
+              "portion": "1根",
+              "nutrients": {
+                "fat": 0.4,
+                "carbs": 27,
+                "protein": 1.3,
+                "calories": 105
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "富含钾元素，维持电解质平衡",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "天然果糖提供快速能量补充",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "膳食纤维有助于消化系统健康",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": {
+            "fat": "10",
+            "carbs": "60",
+            "protein": "20",
+            "totalCalories": "400"
+          }
+        },
+        {
+          "mealType": "lunch",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "鱼香肉丝",
+              "imageUrl": null,
+              "portion": "200g",
+              "nutrients": {
+                "fat": 12,
+                "carbs": 15,
+                "protein": 25,
+                "calories": 280
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "经典川菜，肉质鲜嫩可口",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "蛋白质丰富，满足午餐营养需求",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "酸甜口味开胃，促进食欲",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "干锅花菜",
+              "imageUrl": null,
+              "portion": "150g",
+              "nutrients": {
+                "fat": 5,
+                "carbs": 18,
+                "protein": 4,
+                "calories": 120
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "花菜富含维生素C和膳食纤维",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "干锅烹饪方式保留营养成分",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "口感爽脆，增加午餐多样性",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "电饭煲蒸米饭",
+              "imageUrl": null,
+              "portion": "150g",
+              "nutrients": {
+                "fat": 0.5,
+                "carbs": 45,
+                "protein": 4,
+                "calories": 195
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "主食基础，提供主要能量来源",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "易于消化吸收，不增加肠胃负担",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "搭配菜肴均衡营养摄入",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "金针菇汤",
+              "imageUrl": null,
+              "portion": "200ml",
+              "nutrients": {
+                "fat": 2,
+                "carbs": 8,
+                "protein": 3,
+                "calories": 60
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "金针菇富含膳食纤维和微量元素",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "清淡汤品，有助于消化",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "增加午餐水分摄入，保持身体水平衡",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": {
+            "fat": "20",
+            "carbs": "80",
+            "protein": "35",
+            "totalCalories": "650"
+          }
+        },
+        {
+          "mealType": "dinner",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "麻婆豆腐",
+              "imageUrl": null,
+              "portion": "200g",
+              "nutrients": {
+                "fat": 12,
+                "carbs": 12,
+                "protein": 15,
+                "calories": 220
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "植物蛋白丰富，低脂肪健康选择",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "麻辣口味开胃，促进食欲",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "适合晚间轻食，不增加消化负担",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "白灼菜心",
+              "imageUrl": null,
+              "portion": "200g",
+              "nutrients": {
+                "fat": 1,
+                "carbs": 15,
+                "protein": 5,
+                "calories": 80
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "清淡蔬菜，平衡晚餐口味",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含维生素和矿物质，营养全面",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "低热量高纤维，适合健康饮食",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "米粥",
+              "imageUrl": null,
+              "portion": "200ml",
+              "nutrients": {
+                "fat": 1,
+                "carbs": 18,
+                "protein": 3,
+                "calories": 90
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "温和易消化，适合晚餐食用",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "补充水分和基础能量",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "不增加肠胃负担，促进睡眠质量",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": {
+            "fat": "20",
+            "carbs": "60",
+            "protein": "25",
+            "totalCalories": "600"
+          }
+        }
+      ],
+      "summary": {
+        "fat": "55",
+        "carbs": "220",
+        "protein": "85",
+        "totalCalories": "1850"
+      }
+    },
+    {
+      "date": "2025-10-30",
+      "dateInWeek": "周四",
+      "meals": [
+        {
+          "mealType": "breakfast",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "牛奶燕麦",
+              "imageUrl": null,
+              "portion": "200g",
+              "nutrients": {
+                "fat": 3,
+                "carbs": 25,
+                "protein": 8,
+                "calories": 150
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "优质碳水来源，提供持久能量",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含膳食纤维，促进肠道健康",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "制作简单快捷，适合早餐",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "煮鸡蛋",
+              "imageUrl": null,
+              "portion": "1个",
+              "nutrients": {
+                "fat": 5,
+                "carbs": 1,
+                "protein": 6,
+                "calories": 70
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "优质蛋白质，满足早晨营养需求",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含必需氨基酸，促进肌肉修复",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "饱腹感强，有助于控制午餐前饥饿",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "苹果",
+              "imageUrl": null,
+              "portion": "1个",
+              "nutrients": {
+                "fat": 0.3,
+                "carbs": 25,
+                "protein": 0.5,
+                "calories": 95
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "富含维生素C，增强免疫力",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "天然果糖提供快速能量",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "膳食纤维有助于消化",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": {
+            "fat": "10",
+            "carbs": "60",
+            "protein": "20",
+            "totalCalories": "400"
+          }
+        },
+        {
+          "mealType": "lunch",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "西红柿炒鸡蛋",
+              "imageUrl": null,
+              "portion": "200g",
+              "nutrients": {
+                "fat": 10,
+                "carbs": 10,
+                "protein": 12,
+                "calories": 180
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "经典家常菜，营养均衡",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "番茄红素有助于抗氧化",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "蛋白质与维生素完美结合",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "手撕包菜",
+              "imageUrl": null,
+              "portion": "150g",
+              "nutrients": {
+                "fat": 2,
+                "carbs": 15,
+                "protein": 3,
+                "calories": 80
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "富含维生素K，促进骨骼健康",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "清淡爽口，平衡午餐口味",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "膳食纤维丰富，助消化",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "电饭煲蒸米饭",
+              "imageUrl": null,
+              "portion": "150g",
+              "nutrients": {
+                "fat": 0.5,
+                "carbs": 45,
+                "protein": 4,
+                "calories": 195
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "提供主要能量来源",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "易于消化吸收",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "搭配菜品均衡营养",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "紫菜蛋花汤",
+              "imageUrl": null,
+              "portion": "200ml",
+              "nutrients": {
+                "fat": 2,
+                "carbs": 5,
+                "protein": 4,
+                "calories": 50
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "补充碘元素，促进甲状腺健康",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "清淡汤品，助消化",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "增加午餐水分摄入",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": {
+            "fat": "20",
+            "carbs": "80",
+            "protein": "35",
+            "totalCalories": "650"
+          }
+        },
+        {
+          "mealType": "dinner",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "清蒸鲈鱼",
+              "imageUrl": null,
+              "portion": "150g",
+              "nutrients": {
+                "fat": 8,
+                "carbs": 0,
+                "protein": 25,
+                "calories": 180
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "高蛋白低脂肪，适合晚餐",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含Omega-3脂肪酸，有益心血管",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "清蒸烹饪方式保留营养",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "蚝油生菜",
+              "imageUrl": null,
+              "portion": "200g",
+              "nutrients": {
+                "fat": 2,
+                "carbs": 10,
+                "protein": 2,
+                "calories": 60
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "富含维生素和矿物质",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "低热量高纤维，适合减脂",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "清爽口感，平衡晚餐",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "小米粥",
+              "imageUrl": null,
+              "portion": "200ml",
+              "nutrients": {
+                "fat": 1,
+                "carbs": 18,
+                "protein": 3,
+                "calories": 90
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "温和养胃，适合晚间食用",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含B族维生素",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "易于消化，不增加肠胃负担",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": {
+            "fat": "20",
+            "carbs": "60",
+            "protein": "25",
+            "totalCalories": "600"
+          }
+        }
+      ],
+      "summary": {
+        "fat": "55",
+        "carbs": "220",
+        "protein": "85",
+        "totalCalories": "1850"
+      }
+    },
+    {
+      "date": "2025-10-31",
+      "dateInWeek": "周五",
+      "meals": [
+        {
+          "mealType": "breakfast",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "牛奶燕麦",
+              "imageUrl": null,
+              "portion": "200g",
+              "nutrients": {
+                "fat": 3,
+                "carbs": 25,
+                "protein": 8,
+                "calories": 150
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "优质碳水来源，提供持久能量",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含膳食纤维，促进肠道健康",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "制作简单快捷，适合早餐",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "煮鸡蛋",
+              "imageUrl": null,
+              "portion": "1个",
+              "nutrients": {
+                "fat": 5,
+                "carbs": 1,
+                "protein": 6,
+                "calories": 70
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "优质蛋白质，满足早晨营养需求",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含必需氨基酸，促进肌肉修复",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "饱腹感强，有助于控制午餐前饥饿",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "苹果",
+              "imageUrl": null,
+              "portion": "1个",
+              "nutrients": {
+                "fat": 0.3,
+                "carbs": 25,
+                "protein": 0.5,
+                "calories": 95
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "富含维生素C，增强免疫力",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "天然果糖提供快速能量",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "膳食纤维有助于消化",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": {
+            "fat": "10",
+            "carbs": "60",
+            "protein": "20",
+            "totalCalories": "400"
+          }
+        },
+        {
+          "mealType": "lunch",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "宫保鸡丁",
+              "imageUrl": null,
+              "portion": "200g",
+              "nutrients": {
+                "fat": 16,
+                "carbs": 12,
+                "protein": 25,
+                "calories": 280
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "经典川菜美味，蛋白质丰富",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "花生提供健康脂肪",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "下饭菜首选，满足味蕾",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "手撕包菜",
+              "imageUrl": null,
+              "portion": "150g",
+              "nutrients": {
+                "fat": 2,
+                "carbs": 15,
+                "protein": 3,
+                "calories": 80
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "富含维生素K，促进骨骼健康",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "清淡爽口，平衡午餐口味",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "膳食纤维丰富，助消化",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "电饭煲蒸米饭",
+              "imageUrl": null,
+              "portion": "150g",
+              "nutrients": {
+                "fat": 0.5,
+                "carbs": 45,
+                "protein": 4,
+                "calories": 195
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "主食基础，提供主要能量来源",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "易于消化吸收，不增加肠胃负担",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "搭配菜肴均衡营养摄入",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "紫菜蛋花汤",
+              "imageUrl": null,
+              "portion": "200ml",
+              "nutrients": {
+                "fat": 2,
+                "carbs": 5,
+                "protein": 4,
+                "calories": 50
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "补充碘元素，促进甲状腺健康",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "清淡汤品，助消化",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "增加午餐水分摄入",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": {
+            "fat": "20",
+            "carbs": "80",
+            "protein": "35",
+            "totalCalories": "650"
+          }
+        },
+        {
+          "mealType": "dinner",
+          "date": null,
+          "dishes": [
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "清蒸鲈鱼",
+              "imageUrl": null,
+              "portion": "150g",
+              "nutrients": {
+                "fat": 8,
+                "carbs": 0,
+                "protein": 25,
+                "calories": 180
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "高蛋白低脂肪，适合晚餐",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含Omega-3脂肪酸，有益心血管",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "清蒸烹饪方式保留营养",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "蚝油生菜",
+              "imageUrl": null,
+              "portion": "200g",
+              "nutrients": {
+                "fat": 2,
+                "carbs": 10,
+                "protein": 2,
+                "calories": 60
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "富含维生素和矿物质",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "低热量高纤维，适合减脂",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "清爽口感，平衡晚餐",
+                  "isHighlight": false
+                }
+              ]
+            },
+            {
+              "id": null,
+              "date": null,
+              "mealType": null,
+              "name": "小米粥",
+              "imageUrl": null,
+              "portion": "200ml",
+              "nutrients": {
+                "fat": 1,
+                "carbs": 18,
+                "protein": 3,
+                "calories": 90
+              },
+              "recommendationReasons": [
+                {
+                  "reason": "温和养胃，适合晚间食用",
+                  "isHighlight": true
+                },
+                {
+                  "reason": "富含B族维生素",
+                  "isHighlight": false
+                },
+                {
+                  "reason": "易于消化，不增加肠胃负担",
+                  "isHighlight": false
+                }
+              ]
+            }
+          ],
+          "summary": {
+            "fat": "20",
+            "carbs": "60",
+            "protein": "25",
+            "totalCalories": "600"
+          }
+        }
+      ],
+      "summary": {
+        "fat": "55",
+        "carbs": "220",
+        "protein": "85",
+        "totalCalories": "1850"
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="textPrimary">#ffffff</color>
+    <color name="textTabItem">#222222</color>
+    <color name="colorPrimary">#E7FE53</color>
+    <color name="colorAccent">#ff65ba</color>
+
+    <color name="numberRed">#DC2424</color>
+    <color name="textHighLightColor">#ff65ba</color>
+
+    <color name="popBackground">#141819</color>
+
+    <color name="colorOnPrimary">#f0f0f0</color>
+
+    <color name="cardBgColor">#80000000</color>
+
+</resources>

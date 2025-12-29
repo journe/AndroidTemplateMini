@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/CheeseFragment">
+    <action
+        android:id="@+id/action_to_MainFragment"
+        app:destination="@id/CheeseFragment"
+        app:enterAnim="@anim/anim_pop_in"
+        app:exitAnim="@anim/anim_pop_exit"
+        app:launchSingleTop="true"
+        app:popEnterAnim="@anim/anim_pop_in"
+        app:popExitAnim="@anim/anim_pop_exit" />
+    <action
+        android:id="@+id/action_to_SecondFragment"
+        app:destination="@id/HolderFragment"
+        app:enterAnim="@anim/anim_pop_in"
+        app:exitAnim="@anim/anim_pop_exit"
+        app:launchSingleTop="true"
+        app:popEnterAnim="@anim/anim_pop_in" />
+
+    <fragment
+        android:id="@+id/CheeseFragment"
+        android:name="com.template.module.cheese.CheeseFragment"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_cheese_uilib" />
+    <fragment
+        android:id="@+id/HolderFragment"
+        android:name="com.template.module.second.SecondFragment"
+        android:label="HolderFragment"
+        tools:layout="@layout/fragment_second" />
+</navigation>
