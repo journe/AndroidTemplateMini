@@ -9,10 +9,4 @@ import javax.inject.Inject
 class SecondViewModel @Inject constructor(private val mRepository: SecondRepository) :
 	BaseViewModel() {
 
-
-
-	fun insertData(bean: AccountBean) {
-	}
-
-
 }

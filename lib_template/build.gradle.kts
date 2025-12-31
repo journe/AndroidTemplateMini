@@ -47,10 +47,10 @@ dependencies {
 	implementation(libs.material)
 	implementation(libs.androidx.activity)
 
-//	implementation(libs.androidx.navigation.fragment.ktx)
-//	implementation(libs.androidx.navigation.ui.ktx)
 	// 方式2：引用bundles（批量引入，简化代码）
 	implementation(libs.bundles.navigation)
+	implementation(libs.bundles.room)
+	ksp(libs.room.compiler)
 
 	implementation(libs.hilt)
 	ksp(libs.hilt.compiler)
@@ -63,8 +63,8 @@ dependencies {
 
 	implementation("com.github.journe:Android-logger:v2.2.1")
 
-//    implementation("com.guolindev.permissionx:permissionx:1.7.1")
-//	debugImplementation("com.guolindev.glance:glance:1.1.0")
+    implementation("com.guolindev.permissionx:permissionx:1.7.1")
+	debugImplementation("com.guolindev.glance:glance:1.1.0")
 
 	implementation(libs.xpopup)
 	implementation(libs.utilcodex)

@@ -14,7 +14,7 @@ constraintlayout = "2.2.1"
 lifecycle = "2.9.4"
 navigation = "2.9.5"
 preferenceKtx = "1.2.1"
-roomVersion = "2.6.1"
+roomVersion = "2.8.4"
 utilcodex = "1.31.1"
 workerVersion = "2.9.1"
 
@@ -49,10 +49,10 @@ paging = { module = "androidx.paging:paging-runtime-ktx", version.ref = "paging"
 worker = { module = "androidx.work:work-runtime-ktx", version.ref = "workerVersion" }
 preference-ktx = { module = "androidx.preference:preference-ktx", version.ref = "preferenceKtx" }
 
-room-ktx = { group = "androidx.room", name = "room-ktx",version.ref = "roomVersion" }
-room-runtime = { group = "androidx.room", name = "room-runtime",version.ref = "roomVersion" }
+room-ktx = { group = "androidx.room", name = "room-ktx", version.ref = "roomVersion" }
+room-runtime = { group = "androidx.room", name = "room-runtime", version.ref = "roomVersion" }
+room-compiler = { group = "androidx.room", name = "room-compiler", version.ref = "roomVersion" }
 room-paging = { group = "androidx.room", name = "room-paging", version.ref = "roomVersion" }
-room-compiler = { group = "androidx.room", name = "room-compiler",version.ref = "roomVersion" }
 
 hilt = { module = "com.google.dagger:hilt-android", version.ref = "hiltVersion" }
 hilt-compiler = { module = "com.google.dagger:hilt-compiler", version.ref = "hiltVersion" }
@@ -90,3 +90,4 @@ hilt = { id = "com.google.dagger.hilt.android", version.ref = "hiltVersion" }
 #hilt = ["hilt-android", "hilt-android-compiler", "hilt-lifecycle-viewmodel", "hilt-compiler"]
 #androidCore = ["core-ktx", "appcompat"]
 navigation = ["navigation-fragment", "navigation-ui"]
+room = ["room-ktx", "room-runtime", "room-paging"]
